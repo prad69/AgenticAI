@@ -2,3 +2,5 @@ langchain
 langchain-openai
 openai>=1.10.0
 python-dotenv
+pytest>=7.4.0
+pytest-mock>=3.11.1
